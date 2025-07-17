@@ -1,0 +1,14 @@
+{
+  "name": "alukadex-bot",
+  "version": "1.0.0",
+  "description": "Trading simulation bot for Alukadex using Recall API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@recallnet/agent-toolkit": "^0.0.8",
+    "axios": "^1.6.7",
+    "dotenv": "^16.6.1"
+  }
+}
